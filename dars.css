@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.a1 {
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 180px;
+    margin-bottom: 100px;
+    background-color: white;
+    width: 350px;
+    height: 250px;
+    padding: 20px;
+    padding-top: 60px;
+}
+p {
+    width: 300px;
+}
+i {
+    position: relative;
+    left: 290px;
+    bottom: 80px;
+}
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+body {
+    background-image: linear-gradient(-45deg, rgb(203, 2, 2),rgb(255, 213, 0));
+}
